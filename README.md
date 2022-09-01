@@ -27,4 +27,4 @@ python masterduels_deckbuilder.py -ydk name_ofyour_file.ydk
 
 I haven't really programmed a stop button, but pressing ESC until it opens the prompt to exit deck builder, then by either closing the terminal or pressing CTRL+C. Works good enough since the script looks for specific images that the prompt blocks, don't @ me I made this in one morning.
 
-![Alt Text](https://i.imgur.com/agADYFD.mp4)
+![example](https://user-images.githubusercontent.com/48190278/187905966-4d67f516-c437-4141-abda-113cb4b2f622.gif)
